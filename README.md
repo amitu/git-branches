@@ -12,7 +12,7 @@ $ git branch
   wip/get-tweet-body
 ```
 
-Now, do `go get -u github.com/shurcooL/cmd/git-branches` on any machine with Go installed, and then:
+Now, do `go get -u github.com/shurcooL/git-branches` on any machine with Go installed, and then:
 
 ```
 $ git-branches
